@@ -1,0 +1,16 @@
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\bin\Debug\net5.0\Ejercicio36.exe
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\bin\Debug\net5.0\Ejercicio36.deps.json
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\bin\Debug\net5.0\Ejercicio36.runtimeconfig.json
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\bin\Debug\net5.0\Ejercicio36.runtimeconfig.dev.json
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\bin\Debug\net5.0\Ejercicio36.dll
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\bin\Debug\net5.0\ref\Ejercicio36.dll
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\bin\Debug\net5.0\Ejercicio36.pdb
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\obj\Debug\net5.0\Ejercicio36.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\obj\Debug\net5.0\Ejercicio36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\obj\Debug\net5.0\Ejercicio36.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\obj\Debug\net5.0\Ejercicio36.AssemblyInfo.cs
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\obj\Debug\net5.0\Ejercicio36.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\obj\Debug\net5.0\Ejercicio36.dll
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\obj\Debug\net5.0\ref\Ejercicio36.dll
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\obj\Debug\net5.0\Ejercicio36.pdb
+C:\Users\juanp\source\repos\Polimorfismo\Ejercicio36\obj\Debug\net5.0\Ejercicio36.genruntimeconfig.cache

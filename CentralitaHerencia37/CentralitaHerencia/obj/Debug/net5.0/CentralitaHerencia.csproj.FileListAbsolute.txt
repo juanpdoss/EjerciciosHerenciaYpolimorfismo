@@ -1,0 +1,12 @@
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.deps.json
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\bin\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\bin\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\obj\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\juanp\source\repos\CentralitaHerencia\CentralitaHerencia\obj\Debug\net5.0\CentralitaHerencia.pdb
